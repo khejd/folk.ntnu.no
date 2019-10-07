@@ -1,2 +1,2 @@
 # folk.ntnu.no
-Se siden på https://github.com/khejd/folk.ntnu.no
+Se siden på http://folk.ntnu.no/khejdfor/
